@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  assinatura: one
+  servico_adicional: one
+
+two:
+  assinatura: two
+  servico_adicional: two

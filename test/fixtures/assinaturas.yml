@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cliente: one
+  plano: one
+  pacote: one
+  data_assinatura: 2025-03-09
+
+two:
+  cliente: two
+  plano: two
+  pacote: two
+  data_assinatura: 2025-03-09
